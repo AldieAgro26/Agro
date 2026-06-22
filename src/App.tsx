@@ -2,12 +2,9 @@
  import { Link, Navigate } from "react-router-dom"
  import { Route } from "react-router-dom"
  import { Routes } from "react-router-dom"
- import { SectionTitle } from "./composants/SectionTitle"
-import { Button } from "./composants/Button"
-import { produits } from "./Date/produits"
-import { CarteProduit } from "./composants/CarteProduit"
+ 
 import { useState } from "react"
-import { HomePage } from "./Pages/HomePage"
+
 import { BlogPage } from "./Pages/BlogPage"
 import { PostPage } from "./Pages/PostPage"
 
